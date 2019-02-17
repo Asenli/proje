@@ -1,0 +1,5 @@
+('C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python35\\Scripts\\pyqq35\\projects\\build\\cliect\\pyuserinput-0.1.12-py3.5.egg',
+ None,
+ {'*.pyc', '*.pyd', '*.py', 'EGG-INFO', '*.cp35-win_amd64.pyd', '*.pyw'},
+ 'DATA',
+ [])
